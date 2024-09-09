@@ -14,4 +14,11 @@ $pip install pystyle
 $pip install colorama
 
 
-$ git clone 
+$git clone https://github.com/9Team10-HR/Tik-Tok-report.git
+
+
+$ cd Tik-Tok-report
+
+$ ls 
+
+$ python HR.py 
